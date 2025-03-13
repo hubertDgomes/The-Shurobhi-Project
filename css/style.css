@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    padding: 0;
+    margin: 0;
+    line-height: 0.8;
+}
+a{
+    text-decoration: none;
+}
+/* All Common Css */
+/* Banner Start */
+.navbar-brand h4{
+    font-family: "Bitter", serif;
+    font-size: 40px;
+}
+.navbar-brand h4:hover{
+    padding: 0 20px;
+    transition: 1s;
+}
+.navbar{
+    /* position: fixed; */
+    width: 100%;
+    background: rgba(255, 255, 255, 0.646);
+}
+.navbar-nav{
+    font-family: "Bitter", serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+.navbar-nav li:hover{
+    padding: 0 30px;
+    transition: 1s;
+}
+/* Banner End */
+/* Begin Part Start */
+.begin{
+    padding: 120px 0;
+}
+.piku1{
+	height: 700px;
+	width: 500px;
+} 
+.begin1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-family: "Lobster", sans-serif;
+    font-size: 60px;
+}
+.begin2{
+    font-family: "Tajawal", sans-serif;
+    font-size: 30px;
+}
+/* Begin Part End */
