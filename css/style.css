@@ -57,3 +57,19 @@ a{
     font-size: 30px;
 }
 /* Begin Part End */
+/* memories part start */
+.memories{
+    padding: 100px 0;
+}
+.memH2{
+    font-family: "Playfair Display", serif;
+    padding-bottom: 30px;
+}
+.memP{
+    font-family: "Playfair Display", serif;
+    font-size: 20px;
+}
+.forPAD{
+    padding: 122px 0;
+}
+/* memories part end */
