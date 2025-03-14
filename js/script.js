@@ -29,7 +29,7 @@ AOS.init({
 });
 
 new VenoBox({
-  selector: '.myPiku',
+  selector: '.my-image-links',
   numeration: true,
   infinigall: true,
   share: true,

@@ -21,9 +21,10 @@ a{
     transition: 1s;
 }
 .navbar{
-    /* position: fixed; */
+    position: fixed;
     width: 100%;
     background: rgba(255, 255, 255, 0.646);
+    z-index: 999999999999999999999;
 }
 .navbar-nav{
     font-family: "Bitter", serif;
@@ -71,5 +72,14 @@ a{
 }
 .forPAD{
     padding: 122px 0;
+}
+.textofmem{
+    font-family: "Lobster", sans-serif;
+    font-size: 58px;
+}
+.gelCol{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(110,137,149,1) 19%, rgba(136,170,177,1) 51%, rgba(197,25,212,1) 68%, rgba(197,25,212,1) 93%);   
+    padding: 100px 0;
 }
 /* memories part end */
